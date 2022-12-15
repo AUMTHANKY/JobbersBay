@@ -1,4 +1,3 @@
-# JobbersBay
 JobbersBay
 JobbersBay is a job management portal.It works as a bridge between job seeker candidates and job providing companies.It also works as a recruitment system for small startup companies.
 
